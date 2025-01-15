@@ -1,8 +1,3 @@
-# React + Vite
+# Gym-Knight
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Gym Knight is an interactive web app designed to be a user's all-in-one fitness companion. Users will be able to create, save, and view customized workouts, log workout sessions, view their stats, and more. For users that are not sure where to begin or looking for exercise inspiration, Gym Knight's AI-powered assistant will suggest exercises and provide additional tips based on the user's goals and experience level.
